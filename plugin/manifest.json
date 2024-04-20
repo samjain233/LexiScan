@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "dyslexia",
+  "version": "1.0",
+  "description": "dyslexia treatment chrome extension",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content/build/static/js/main.js"
+      ],
+      "css": [
+        "content/build/static/css/main.css"
+      ]
+    }
+  ]
+}
