@@ -17,21 +17,24 @@ Assisting dyslexic individuals in reading website content by providing customize
   
 ## Table of Contents:
 
+
+
 ## Technology Stack:
   1) React Js
   2) Chrome Extension
   3) Gemini API
   4) Text to speech API
+  5) Generative AI APIs
   
 
 ## Contributors:
 
 Team Name: दोबारा36GhanteKarenge
 
-* [Kirti Kumar](https://github.com/shank03)
-* [Nishu Sharma](https://github.com/sanskaromar)
-* [Sambhav Jain](https://github.com/priyavkaneria)
-* [Utkarsh Jha](https://github.com/priyavkaneria)
+* [Kirti Kumar](https://github.com/KIRTIKUMARKK21)
+* [Nishu Sharma](https://github.com/NishuSharma18)
+* [Sambhav Jain](https://github.com/samjain233)
+* [Utkarsh Jha](https://github.com/utkarsh1236)
 
 
 ### Made at:
