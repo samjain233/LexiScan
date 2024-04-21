@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI("AIzaSyDNCxOUOlrfz3XmK85_0WPtGxU_O7XE1wA");
+const genAI = new GoogleGenerativeAI(process.env.gemini);
 const model = genAI.getGenerativeModel({ model: "gemini-pro" });
 
 const Panel = () => {
@@ -18,7 +18,7 @@ const Panel = () => {
       method: "POST",
       headers: {
         "content-type": "application/x-www-form-urlencoded",
-        "X-RapidAPI-Key": "4c4961e81dmsh1c9c2ea64359144p1d5bb9jsn38609fcc2bd9",
+        "X-RapidAPI-Key": process.env.audio_api,
         "X-RapidAPI-Host": "cloudlabs-text-to-speech.p.rapidapi.com",
       },
       body: new URLSearchParams({
@@ -92,7 +92,7 @@ const Panel = () => {
         method: "POST",
         headers: {
           "x-api-key":
-            "6ec39d25590391981c9b5b78087e433ad849bd8ff2b294993b6ab1455a02b9ae6b0b53d8ed0cb1296db3ba617386dd71",
+            process.env.clipboard,
         },
         body: form,
       };
