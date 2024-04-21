@@ -1,12 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "dyslexia",
+  "name": "LexiScan",
   "version": "1.0",
   "description": "dyslexia treatment chrome extension",
   "permissions": [
     "activeTab",
     "scripting",
-    "tabs"
+    "tabs",
+    "storage"
   ],
   "content_scripts": [
     {
@@ -20,5 +21,8 @@
         "content/build/static/css/main.css"
       ]
     }
-  ]
+  ],
+  "action": {
+    "default_popup": "popup/build/index.html"
+  }
 }
