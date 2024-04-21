@@ -42,7 +42,20 @@ Our motivation stems from a commitment to inclusivity and equal access to inform
   3) Gemini API
   4) Text to speech API
   5) Generative AI APIs
-  
+
+
+
+## Demo
+
+We have to upload image here
+
+## Challenges We Faced
+1.
+2.  
+3.
+
+
+
 
 ## Contributors:
 
