@@ -1,4 +1,4 @@
-<h1 align="center">Hack36 Template Readme</h1>
+# LexiScan
 <p align="center">
 </p>
 
