@@ -19,7 +19,7 @@ Assisting dyslexic individuals in reading website content by providing customize
 
 ---
 
-Through this project, we aim to build a chrome extension that will help dyslexic individuals in reading website content by providing customized content and visual aids.
+Through this project, we aim to build a Chrome extension that will help dyslexic individuals in reading website content by providing customized content and visual aids.
 
 
 ## Why We Built This
@@ -31,30 +31,25 @@ Our motivation stems from a commitment to inclusivity and equal access to inform
 
 
 
-## Technologies Used and Working
-
-
 
 
 ## Technology Stack:
   1) React Js
   2) Chrome Extension
   3) Gemini API
-  4) Text to speech API
+  4) Text-to-speech API
   5) Generative AI APIs
 
 
 
 ## Demo
+![img1](https://github.com/NishuSharma18/LexiScan/assets/93839989/4ba7521b-bb4c-4868-80f2-444cf2f444fa)
 
-We have to upload image here
 
 ## Challenges We Faced
 1.
 2.  
 3.
-
-
 
 
 ## Contributors:
