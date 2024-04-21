@@ -57,6 +57,8 @@ Feedback System: Provides personalized feedback based on assessments to help use
 
 ![img1](https://github.com/NishuSharma18/LexiScan/assets/93839989/4ba7521b-bb4c-4868-80f2-444cf2f444fa)
 
+![WhatsApp Image 2024-04-21 at 5 50 54 AM](https://github.com/NishuSharma18/LexiScan/assets/93839989/af33bbfe-c8f6-4417-aa95-2e88080ae693)
+
 ![WhatsApp Image 2024-04-21 at 8 55 55 AM](https://github.com/NishuSharma18/LexiScan/assets/93839989/9f523d02-013a-4f6f-a320-a6d9a411ea7a)
 
 ## Contributors:
