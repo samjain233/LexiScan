@@ -9,7 +9,7 @@
 Assisting dyslexic individuals in reading website content by providing customized content and visual aids.
 
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  <a href="https://www.youtube.com/watch?v=YOLv_XmtBsg">https://www.youtube.com/watch?v=YOLv_XmtBsg</a>
   
 ## Presentation Link:
   <a href="https://www.canva.com/design/DAGC_0kke4A/7SjLXSeyoWhWfOkqxHtoGw/edit?utm_content=DAGC_0kke4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link here </a>
