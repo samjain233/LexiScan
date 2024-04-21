@@ -17,6 +17,23 @@ Assisting dyslexic individuals in reading website content by providing customize
   
 ## Table of Contents:
 
+---
+
+Through this project, we aim to build a chrome extension that will help dyslexic individuals in reading website content by providing customized content and visual aids.
+
+
+## Why We Built This
+We built this Chrome extension with the intention of providing meaningful support to dyslexic individuals as they navigate website content. Dyslexia presents unique challenges in reading, including difficulties with word recognition, tracking text, and processing visual information. Recognizing these challenges, we wanted to offer a solution that enhances accessibility and promotes comprehension for dyslexic users.
+Our motivation stems from a commitment to inclusivity and equal access to information. We believe that everyone should have the opportunity to engage with online content effectively, regardless of their learning differences. By developing this Chrome extension, we aim to level the playing field and empower dyslexic individuals to explore the wealth of knowledge available on the web with confidence.
+
+
+## How we solve the problem
+
+
+
+## Technologies Used and Working
+
+
 
 
 ## Technology Stack:
