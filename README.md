@@ -43,14 +43,11 @@ Our motivation stems from a commitment to inclusivity and equal access to inform
 
 
 ## Demo
+![WhatsApp Image 2024-04-21 at 8 56 05 AM](https://github.com/NishuSharma18/LexiScan/assets/93839989/1596934d-effc-431a-9cc6-458ffe38c71f)
+
 ![img1](https://github.com/NishuSharma18/LexiScan/assets/93839989/4ba7521b-bb4c-4868-80f2-444cf2f444fa)
 
-
-## Challenges We Faced
-1.
-2.  
-3.
-
+![WhatsApp Image 2024-04-21 at 8 55 55 AM](https://github.com/NishuSharma18/LexiScan/assets/93839989/9f523d02-013a-4f6f-a320-a6d9a411ea7a)
 
 ## Contributors:
 
