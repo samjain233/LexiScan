@@ -27,7 +27,17 @@ We built this Chrome extension with the intention of providing meaningful suppor
 Our motivation stems from a commitment to inclusivity and equal access to information. We believe that everyone should have the opportunity to engage with online content effectively, regardless of their learning differences. By developing this Chrome extension, we aim to level the playing field and empower dyslexic individuals to explore the wealth of knowledge available on the web with confidence.
 
 
-## How we solve the problem
+## Features
+
+Web Extension: Developed as a browser extension for easy accessibility
+
+Customized Content: Analyzes website content and converts it to dyslexic-friendly format based on individual preferences.
+
+Visual Aids: Provides visual aids such as customizable fonts, spacing, and color schemes to enhance readability.
+
+Regular Assessments: Conducts regular assessments to understand users' needs and preferences accurately.
+
+Feedback System: Provides personalized feedback based on assessments to help users improve their reading experience.
 
 
 
